@@ -1,2 +1,8 @@
-# Face-Detection
-This projects defines how to detect the faces in an image using Haar Cascade face detector and this projects was fully implemented using OpenCV Python
+# Face Detection
+Face detection using Haar Cascades (frontal face and profile face) module in OpenCV.
+
+## Haar Cascade Classifiers
+Haar Cascade files can be downloaded from the [OpenCV repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+
+## Usage
+Run the jupyter notebook to detect the face in bounding boxes
